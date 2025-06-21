@@ -1,0 +1,26 @@
+[project]
+name = "hello-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arxiv>=2.2.0",
+    "mcp>=1.9.4",
+    "certifi>=2023.7.22",
+    "urllib3>=2.0.0",
+    "requests>=2.31.0",
+    "langchain-community>=0.3.25",
+    "langchain-core>=0.3.0",
+    "langchain-openai>=0.3.0",
+    "pyboxen>=1.3.0",
+    "ollama>=0.5.1",
+    "openai>=1.88.0",
+    "python-dotenv>=1.0.0",
+    "nest-asyncio>=1.6.0",
+    "openmeteo-requests>=1.5.0",
+    "requests-cache>=1.2.1",
+    "retry-requests>=2.0.0",
+    "numpy>=2.3.0",
+    "pandas>=2.3.0",
+]
